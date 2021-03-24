@@ -8,12 +8,6 @@ Submitted by  :
 Student Name  : Md. Mutasim Billah Abu Noman Akanda
 Student ID    : 192 014 038
 
-Student Name  : Afifa Islam Ananna
-Student ID    : 192 014 006
-
-Student Name  : Sanjida Akter
-Student ID    : 192 014 024
-
 Submitted to  :
 ---------------
 Faculty Name  : Bijan Paul
