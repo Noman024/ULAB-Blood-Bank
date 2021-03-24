@@ -1,6 +1,5 @@
 /*
 Group No      : 01
-Group Member  : 03
 Project Name  : ULAB BLOOD BANK
 
 Submitted by  :
